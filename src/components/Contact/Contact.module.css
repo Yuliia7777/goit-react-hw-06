@@ -12,3 +12,12 @@
   color: gray;
   padding-left: 4px;
 }
+
+.contact-item {
+  display: block;
+  width: 320px;
+  min-width: 300px;
+  border: 1px solid darkgrey;
+  border-radius: 8px;
+  padding: 8px;
+}
