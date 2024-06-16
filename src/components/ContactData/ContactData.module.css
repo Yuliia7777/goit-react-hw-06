@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+}
+.icon {
+  padding: 8px;
+}
+.id {
+  font-size: 9pt;
+  color: gray;
+  padding-left: 4px;
+}
